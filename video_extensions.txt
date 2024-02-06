@@ -1,0 +1,8 @@
+﻿.mp4
+.mov
+.mkv
+.avi
+.webm
+.wmv
+.flv
+.3gp
